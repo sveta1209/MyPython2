@@ -13,7 +13,7 @@ if eyes >= 8:
     else:
         print("scallop")
 else:
-    if legs == 6:
+    if legs == 5:
         print("bug")
     else:
         print("cat")
